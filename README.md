@@ -1,11 +1,16 @@
 # html-css-seletores-exemplos
 Projeto acadêmico demonstrando uso de HTML e CSS (inline, interno e externo), além da aplicação dos principais tipos de seletores CSS.
-html-css-seletores-exemplos
+html-css-seletores-exemplos:
 1-index.html
+
 2-interno.html
+
 3-externo.html
+
 4-style.css
+
 5-README.md
+
 6-gitignore
 
 
@@ -76,24 +81,32 @@ h1 {
 div p {
     color: orange;
 }
-5. README.MD
-# Projeto HTML e CSS - Seletores
 
-## DESCRIÇÃO:
+
+DESCRIÇÃO DO TRABALHO:
 Este projeto foi desenvolvido como atividade acadêmica para demonstrar o uso de:
 
 - CSS Inline
+
 - CSS Interno
+
 - CSS Externo
+
 - Seletores CSS
 
-## OBJETIVOS:
+OBJETIVOS DESSE TRABALHO:
+
+
 Apresentar diferentes formas de aplicar estilos em páginas HTML e demonstrar 5 tipos de seletores CSS.
 
-## TIPOS DE SELETORES UTILIZADOS:
+Tipos de Seletores Utilizados:
 
 1. Seletor de elemento
+
 2. Seletor de classe
+
 3. Seletor de ID
+
 4. Seletor universal
+
 5. Seletor descendente
