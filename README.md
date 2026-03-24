@@ -15,7 +15,7 @@ html-css-seletores-exemplos:
 
 
 1. index.html (CSS INLINE + seletores básicos)
-<!DOCTYPE html>
+   <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -33,6 +33,44 @@ html-css-seletores-exemplos:
         Outro exemplo de estilo aplicado diretamente na tag.
     </p>
 
+
+
+2. interno.html (CSS INTERNO + seletores)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Interno</title>
+
+    <style>
+        body {
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            color: red;
+        }
+
+        .classe {
+            color: blue;
+        }
+
+        #id {
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>Exemplo de CSS Interno</h1>
+
+    <p class="classe">Parágrafo usando classe</p>
+
+    <p id="id">Parágrafo usando ID</p>
+
+</body>
+</html>
 </body>
 </html>
 
@@ -55,6 +93,7 @@ html-css-seletores-exemplos:
 
 </body>
 </html>
+
  4. style.css (5 TIPOS DE SELETORES)
 /* 1. Seletor de elemento */
 h1 {
@@ -67,6 +106,7 @@ h1 {
     color: green;
 }
 
+
 /* 3. Seletor de ID */
 #destaque {
     background-color: yellow;
@@ -77,11 +117,12 @@ h1 {
     font-family: Arial, sans-serif;
 }
 
+
+
 /* 5. Seletor descendente */
 div p {
     color: orange;
 }
-
 
 DESCRIÇÃO DO TRABALHO:
 Este projeto foi desenvolvido como atividade acadêmica para demonstrar o uso de:
