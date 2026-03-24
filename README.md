@@ -95,6 +95,7 @@ html-css-seletores-exemplos:
 </html>
 
  4. style.css (5 TIPOS DE SELETORES)
+ 
 /* 1. Seletor de elemento */
 h1 {
     color: purple;
