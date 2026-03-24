@@ -1,13 +1,12 @@
 # html-css-seletores-exemplos
 Projeto acadêmico demonstrando uso de HTML e CSS (inline, interno e externo), além da aplicação dos principais tipos de seletores CSS.
-html-css-seletores-exemplos/
-│
-├── index.html
-├── interno.html
-├── externo.html
-├── style.css
-├── README.md
-└── .gitignore
+html-css-seletores-exemplos
+1-index.html
+2-interno.html
+3-externo.html
+4-style.css
+5-README.md
+6-gitignore
 
 
 1. index.html (CSS INLINE + seletores básicos)
