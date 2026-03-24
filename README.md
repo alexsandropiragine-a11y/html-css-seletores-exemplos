@@ -51,7 +51,7 @@ html-css-seletores-exemplos/
 
 </body>
 </html>
-🎨 4. style.css (5 TIPOS DE SELETORES)
+ 4. style.css (5 TIPOS DE SELETORES)
 /* 1. Seletor de elemento */
 h1 {
     color: purple;
@@ -77,10 +77,10 @@ h1 {
 div p {
     color: orange;
 }
-📘 5. README.md
+5. README.MD
 # Projeto HTML e CSS - Seletores
 
-## 📚 Descrição
+## DESCRIÇÃO:
 Este projeto foi desenvolvido como atividade acadêmica para demonstrar o uso de:
 
 - CSS Inline
@@ -88,10 +88,10 @@ Este projeto foi desenvolvido como atividade acadêmica para demonstrar o uso de
 - CSS Externo
 - Seletores CSS
 
-## 🎯 Objetivo
+## OBJETIVOS:
 Apresentar diferentes formas de aplicar estilos em páginas HTML e demonstrar 5 tipos de seletores CSS.
 
-## 🧪 Tipos de Seletores Utilizados
+## TIPOS DE SELETORES UTILIZADOS:
 
 1. Seletor de elemento
 2. Seletor de classe
